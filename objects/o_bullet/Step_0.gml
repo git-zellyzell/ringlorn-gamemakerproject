@@ -1,0 +1,1 @@
+move_collide(xspeed, 0)

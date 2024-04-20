@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"list_buffs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"list_buffs",
+  "parent":{
+    "name":"Lists",
+    "path":"folders/Scripts/Lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

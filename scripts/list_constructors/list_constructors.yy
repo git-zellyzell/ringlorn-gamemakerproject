@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"list_constructors",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"list_constructors",
+  "parent":{
+    "name":"Lists",
+    "path":"folders/Scripts/Lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

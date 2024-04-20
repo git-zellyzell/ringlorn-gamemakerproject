@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"entity_flash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"entity_flash",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"move_collide",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"move_collide",
+  "parent":{
+    "name":"MOVING",
+    "path":"folders/Scripts/MOVING.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

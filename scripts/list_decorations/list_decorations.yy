@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"list_decorations",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"list_decorations",
+  "parent":{
+    "name":"Lists",
+    "path":"folders/Scripts/Lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

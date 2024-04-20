@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"se_logo_Events56",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"se_logo_Events56",
+  "parent":{
+    "name":"ringlorn",
+    "path":"ringlorn.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

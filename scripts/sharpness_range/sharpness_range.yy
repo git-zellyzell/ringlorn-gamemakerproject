@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sharpness_range",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sharpness_range",
+  "parent":{
+    "name":"PLAYER_SUPPORT",
+    "path":"folders/Scripts/PLAYER/PLAYER_SUPPORT.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

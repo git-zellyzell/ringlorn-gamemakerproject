@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"list_enemyweapons",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"list_enemyweapons",
+  "parent":{
+    "name":"Lists",
+    "path":"folders/Scripts/Lists.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

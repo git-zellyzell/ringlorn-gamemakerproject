@@ -1,0 +1,1 @@
+o_player.damage_modifier = 0;

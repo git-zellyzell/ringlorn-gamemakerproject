@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"animation_hit_frame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"animation_hit_frame",
+  "parent":{
+    "name":"MOVING",
+    "path":"folders/Scripts/MOVING.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

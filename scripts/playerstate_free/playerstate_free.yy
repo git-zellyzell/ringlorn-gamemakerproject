@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"playerstate_free",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerstate_free",
+  "parent":{
+    "name":"movement",
+    "path":"folders/Scripts/PLAYER/PLAYERSTATES/movement.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

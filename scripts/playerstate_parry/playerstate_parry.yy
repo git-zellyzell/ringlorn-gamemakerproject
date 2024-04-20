@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"playerstate_parry",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerstate_parry",
+  "parent":{
+    "name":"movement",
+    "path":"folders/Scripts/PLAYER/PLAYERSTATES/movement.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
